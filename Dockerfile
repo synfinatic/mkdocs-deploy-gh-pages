@@ -1,4 +1,4 @@
-FROM squidfunk/mkdocs-material:9.5.40
+FROM squidfunk/mkdocs-material:9.6.2
 LABEL maintainer="Aaron Turner"
 
 COPY action.sh /action.sh
